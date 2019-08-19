@@ -10,7 +10,7 @@ Phone: 617-373-2957
 
 Office Hours: TF 8:20-9:50
 
-Grader: TBA
+Grader: Anindita Maiti, a.maiti@northeastern.edu
 
 ## Course Information
 
