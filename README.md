@@ -8,7 +8,7 @@ E-mail: j.halverson@northeastern.edu
 
 Phone: 617-373-2957
 
-Office Hours: TF 8:20-9:50
+Office Hours: Dana 226, TF 8:20-9:50
 
 Grader: Anindita Maiti, a.maiti@northeastern.edu
 
