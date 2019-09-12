@@ -49,7 +49,7 @@ This list will be updated as the semester proceeds.
 - [Applied Conformal Field Theory](https://arxiv.org/abs/hep-th/9108028), by Paul Ginsparg.
 - [Effective Field Theory and the Fermi Surface](https://arxiv.org/abs/hep-th/9210046), by Joe Polchinski.
 
-*Homework and Exams:* There will be biweekly homework assignments designed to help guide you through the material. There will a take home final exam, which will involve one or more classic computations in quantum field theory. There will also be an in-class midterm. Homework may be a joint effort, but the exams must be your work and yours alone. The texts above may be used on exams.
+*Homework and Exams:* There will be biweekly homework assignments designed to help guide you through the material. There will a take home final exam, which will involve one or more classic computations in quantum field theory. There will also be an in-class midterm on Friday, November 1. Homework may be a joint effort, but the exams must be your work and yours alone. The texts above may be used on exams.
 
 *Late homework policy:* Illness and other things come up sometimes, so homework may be turned in within 10 days of the due date, but with a 25% penalty.
 However, it is strongly recommended to not get behind on the class material in order to complete a past due homework.
